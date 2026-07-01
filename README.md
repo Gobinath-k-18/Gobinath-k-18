@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Wave Header Banner -->
+<!-- Animated Wave Header Banner - Rose Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C8A,100:0D1117&height=200&section=header&text=Gobinath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gobinath;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF5C8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gobinath;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -30,11 +30,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=3&section=header" width="100%"/>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
+## <img src="https://img.shields.io/badge/-%20-FF5C8A?style=flat-square" height="22"/> About Me
 
 <table width="100%">
 <tr><td>
@@ -157,13 +157,13 @@ These are planned projects, not yet started or completed:
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Gobinath-k-18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gobinath-k-18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5C8A&icon_color=FF5C8A&text_color=c9d1d9" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath-k-18&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath-k-18&theme=radical&hide_border=true&background=0D1117&stroke=FF5C8A&ring=FF5C8A&fire=FF5C8A&currStreakLabel=FF5C8A" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobinath-k-18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobinath-k-18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5C8A&text_color=c9d1d9" />
 </td>
 </tr>
 </table>
@@ -186,7 +186,7 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobinath-k-18&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobinath-k-18&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5C8A&line=FF5C8A&point=ffffff" />
 
 </div>
 
@@ -213,7 +213,7 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Gobinath-k-18&color=8A2BE2&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Gobinath-k-18&color=FF5C8A&style=flat-square&label=Profile+Views" />
 
 <br/><br/>
 
@@ -231,4 +231,4 @@ These are planned projects, not yet started or completed:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF5C8A&height=120&section=footer" width="100%"/>
