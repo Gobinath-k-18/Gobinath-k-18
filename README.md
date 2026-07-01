@@ -121,10 +121,10 @@ These are planned projects, not yet started or completed:
 <table width="100%">
 <tr><td>
 
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] React
+- [✅] HTML
+- [✅] CSS
+- [✅] JavaScript
+- [✅] React
 - [x] Node.js
 - [x] Express.js
 - [x] MongoDB
