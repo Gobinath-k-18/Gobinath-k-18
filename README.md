@@ -1,99 +1,234 @@
-<h1 align="center">👋 Hey Everyone, I'm Gobinath</h1>
+<div align="center">
 
-<h3 align="center">💻 Welcome to My GitHub Universe!</h3>
+<!-- Animated Wave Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=200&section=header&text=Gobinath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<ul>
-  <li>🌱 Building full stack web apps that help people every day.</li>
-  <li>📚 Focused on learning and improving with the MERN stack.</li>
-  <li>⚡ Enjoy working on a variety of projects.</li>
-  <li>🤝 Open to collaboration.</li>
-  <li>✂️ Offering services for Web Applications.</li>
-</ul>
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gobinath;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GOBINATH-K&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
-</p>
+<br/>
 
-<p align="left">
-  <a href="mailto:gn721192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+<!-- Nav Buttons row (like the reference image) -->
+<a href="mailto:gn7231192@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-1a1b27?style=for-the-badge&labelColor=1a1b27" />
+</a>
+<a href="https://github.com/Gobinath-k-18">
+  <img src="https://img.shields.io/badge/🐙_GitHub-1a1b27?style=for-the-badge&labelColor=1a1b27" />
+</a>
+
+<br/><br/>
+
+<!-- Quote box styled like the reference "66 ... 99" card -->
+<table>
+<tr><td>
+
+💬 &nbsp; *Building real-world web applications, one honest commit at a time.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Learning today, shipping tomorrow.* 🚀
+
+</td></tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=3&section=header" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
+
+<table width="100%">
+<tr><td>
+
+> **Gobinath**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+>
+> I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
+
+- 🎓 &nbsp;B.E. Computer Science and Engineering
+- 💻 &nbsp;Full Stack Web Development (MERN Stack)
+- 🌱 &nbsp;Currently deepening my skills in React, Node.js, and system design basics
+- 🎯 &nbsp;Long-term goal: build production-grade AI-powered web applications
+- 📫 &nbsp;Reach me at **[gn7231192@gmail.com](mailto:gn7231192@gmail.com)**
+
+</td></tr>
+</table>
+
+<br/>
+
+## 🎯 Current Focus
+
+<table width="100%">
+<tr><td>
+
+```text
+🔭 Focusing on:      Full Stack Development (MERN)
+🌱 Strengthening:    JavaScript fundamentals, React, Backend APIs
+🧠 Exploring:        AI integration in web applications
+🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
+```
+
+</td></tr>
+</table>
+
+<br/>
+
+## 🚧 Currently Building
+
+<table width="100%">
+<tr><td>
+
+### AI-Powered College ERP System — *In Progress*
+
+An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management.
+
+| Phase              | Status         |
+|---------------------|----------------|
+| Research            | ✅ Completed    |
+| UI Design           | 🟡 In Progress |
+| Frontend            | 🟡 In Progress |
+| Backend             | 🟡 In Progress |
+| Database            | 🟡 In Progress |
+| AI Integration      | 🟡 In Progress |
+| Testing             | 🟡 In Progress |
+| Deployment          | 🟡 In Progress |
+
+> This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
+
+</td></tr>
+</table>
+
+<br/>
+
+## 🗂️ Coming Soon
+
+<table width="100%">
+<tr><td>
+
+These are planned projects, not yet started or completed:
+
+- 🛒 &nbsp;E-Commerce Website
+- 💬 &nbsp;Real-Time Chat Application
+- 🌐 &nbsp;Portfolio Website
+- 📊 &nbsp;Admin Dashboard
+- 💰 &nbsp;Expense Tracker
+
+</td></tr>
+</table>
+
+<br/>
+
+## 📚 Learning Roadmap
+
+<table width="100%">
+<tr><td>
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] React
+- [x] Node.js
+- [x] Express.js
+- [x] MongoDB
+- [x] Git
+- [x] GitHub
+
+</td></tr>
+</table>
+
+<br/>
 
 ---
 
-### 🛠️ My Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+
+</div>
+
+<br/>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=GOBINATH-K&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Gobinath-k-18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" />
 </td>
-<td valign="top" width="50%">
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=GOBINATH-K&theme=dark&hide_border=true" width="100%"/>
-
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobinath-k-18&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### 🥇 Top Languages by Repo
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOBINATH-K&layout=donut&theme=dark&hide_border=true" width="100%"/>
-
-</td>
-<td valign="top" width="50%">
-
-### 🥈 Top Languages by Commit
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOBINATH-K&layout=donut-vertical&theme=dark&hide_border=true" width="100%"/>
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobinath-k-18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gobinath-k-18&theme=radical&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobinath-k-18&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
+
+</div>
+
+<br/>
+
 ---
 
-### 🏆 GitHub Trophies
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GOBINATH-K&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
 
----
+<a href="mailto:gn7231192@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Gobinath-k-18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOBINATH-K&theme=react-dark&hide_border=true"/>
-</p>
+<br/>
 
----
+## 👀 Profile Views
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+<div align="center">
 
-<h3 align="center">Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.</h3>
+<img src="https://komarev.com/ghpvc/?username=Gobinath-k-18&color=8A2BE2&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+*Thanks for visiting! 😊*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "The expert in anything was once a beginner."
+
+⭐️ Thanks for visiting my profile — I'm just getting started, and I'm building in public.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>
