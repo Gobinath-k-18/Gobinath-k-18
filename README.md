@@ -18,12 +18,12 @@
 
 <br/><br/>
 
-<!-- Quote box styled like the reference "66 ... 99" card -->
-<table>
-<tr><td>
+<!-- Quote box styled like the reference "66 ... 99" card, rose theme -->
+<table bgcolor="#2a0f1a" width="70%">
+<tr><td align="center">
 
-💬 &nbsp; *Building real-world web applications, one honest commit at a time.*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Learning today, shipping tomorrow.* 🚀
+💬 &nbsp; <font color="#FF5C8A">*Building real-world web applications, one honest commit at a time.*</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#FF5C8A">*Learning today, shipping tomorrow.*</font> 🚀
 
 </td></tr>
 </table>
