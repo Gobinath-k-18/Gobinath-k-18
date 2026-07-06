@@ -84,7 +84,7 @@ An AI-integrated College ERP system covering chatbot support, attendance, exams,
 |---------------------|----------------|
 | Research            | ✅ Completed    |
 | UI Design           | 🟡 In Progress |
-| Frontend            | 🟡 In Progress |
+| Frontend            | ✅ Completed |
 | Backend             | 🟡 In Progress |
 | Database            | 🟡 In Progress |
 | AI Integration      | 🟡 In Progress |
