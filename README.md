@@ -83,13 +83,13 @@ An AI-integrated College ERP system covering chatbot support, attendance, exams,
 | Phase              | Status         |
 |---------------------|----------------|
 | Research            | ✅ Completed    |
-| UI Design           | 🟡 In Progress |
+| UI Design           | ✅ In Progress |
 | Frontend            | ✅ Completed |
-| Backend             | 🟡 In Progress |
-| Database            | 🟡 In Progress |
-| AI Integration      | 🟡 In Progress |
-| Testing             | 🟡 In Progress |
-| Deployment          | 🟡 In Progress |
+| Backend             | ✅ In Progress |
+| Database            | ✅ In Progress |
+| AI Integration      | ✅ In Progress |
+| Testing             | ✅ In Progress |
+| Deployment          | ✅ In Progress |
 
 > This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
 
@@ -125,11 +125,11 @@ These are planned projects, not yet started or completed:
 - [✅] CSS
 - [✅] JavaScript
 - [✅] React
-- [x] Node.js
-- [x] Express.js
-- [x] MongoDB
-- [x] Git
-- [x] GitHub
+- [✅]Node.js
+- [✅] Express.js
+- [✅] MongoDB
+- [✅] Git
+- [✅] GitHub
 
 </td></tr>
 </table>
